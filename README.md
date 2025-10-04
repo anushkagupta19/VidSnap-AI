@@ -1,4 +1,6 @@
 🎬 VidSnap AI: Automated Video Reel Generator
+
+
 VidSnap AI is a full-stack Python application that automatically transforms user-submitted images and text descriptions into engaging, ready-to-share social media video reels. This project leverages AI-powered text-to-speech and powerful media manipulation tools to create a seamless, end-to-end content creation pipeline.
 
 ✨ Features
